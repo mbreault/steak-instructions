@@ -1,0 +1,17 @@
+# Steak Cooking Requirements
+foreman-grill==2.0
+thermometer>=100F
+am-salt==1.0
+compound-butter==1.2
+patience>=5minutes
+hunger>=80%
+
+# Optional dependencies
+wine>=1glass
+side-dish>=1
+napkin==1
+
+# Dev dependencies
+fork==1
+knife==1
+plate>=10inches
